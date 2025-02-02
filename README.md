@@ -17,7 +17,7 @@
 #### Steps:
    # Clone the Repository:
 
-      git clone https://github.com/yourusername/faq_project.git
+      git clone https://github.com/prem-1049/Backend-bharathFD.git
       cd faq_project
    # Create a Virtual Environment:
 
@@ -90,7 +90,7 @@
       Click the "Fork" button on the top right of the repository page.
 
    # Clone Your Fork:
-      git clone https://github.com/yourusername/faq_project.git
+      git clone https://github.com/prem-1049/Backend-bharathFD.git
       cd faq_project
    # Create a New Branch:
       git checkout -b feature/your-feature-name
